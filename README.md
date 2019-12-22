@@ -24,7 +24,7 @@ docker run -p 80:80 bonaparta/backend
 *  To run frontend
 ```
 cd frontend/
-ng serve 
+ng serve --port 3000
 ```
 * Or use docker image to run the app
 ```
